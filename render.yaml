@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: cosmic-edu
+    name: cosmic-com
     env: docker
     plan: free
